@@ -1,0 +1,34 @@
+{
+    "workbench.iconTheme": "symbols",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    "workbench.colorCustomizations": {
+        "editor.cursorForeground": "#FF0000"
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.productIconTheme": "fluent-icons",
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia Code PL',  Menlo, Monaco, 'Courier'",
+    "terminal.integrated.fontFamily": "monospace",
+    "security.promptForLocalFileProtocolHandling": false
+}
