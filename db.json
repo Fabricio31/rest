@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Segundo post",
+      "content": "Contenido del segundo post"
+    },
+    {
+      "id": "84d1",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "8595",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "c872",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "4b58",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "337a",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "3fb3",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "9679",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    },
+    {
+      "id": "80f1",
+      "title": "Nuevo post",
+      "content": "Contenido del nuevo post"
+    }
+  ]
+}

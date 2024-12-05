@@ -1,0 +1,30 @@
+# Obtener todos los posts
+GET http://localhost:3000/posts
+Content-Type: application/json
+
+###
+
+# Crear un nuevo post
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "title": "Nuevo post",
+  "content": "Contenido del nuevo post"
+}
+
+###
+
+# Actualizar un post
+PUT http://localhost:3000/posts/1
+Content-Type: application/json
+
+{
+  "title": "Post actualizado",
+  "content": "Contenido actualizado"
+}
+
+###
+
+# Eliminar un post
+DELETE http://localhost:3000/posts/1
